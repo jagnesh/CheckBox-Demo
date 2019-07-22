@@ -1,4 +1,4 @@
 # React Native CheckBox Demo
-![Imgur](https://imgur.com/UPWGiVp)  ![Imgur](https://imgur.com/64Xyhl9)
+![Imgur](https://i.imgur.com/UPWGiVp.png)  ![Imgur](https://i.imgur.com/64Xyhl9.png)
 
 
